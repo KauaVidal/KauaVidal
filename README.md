@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend developer<br>- Intern developer at Rappi - 4wheels<br>- Student at @SptechSchool<br><br>- Sou estudante de programação na SPTech e atualmente trabalho como desenvolvedor backend na Rappi. Apaixonado por tecnologia, estou sempre buscando aprender e melhorar minhas habilidades, principalmente em backend .</p>
+<p align="left">- Backend developer<br>- Student at @SptechSchool<br><br>- Sou estudante de programação na SPTech e atualmente trabalho como desenvolvedor backend na Rappi. Apaixonado por tecnologia, estou sempre buscando aprender e melhorar minhas habilidades, principalmente em backend .</p>
 
 ###
 
