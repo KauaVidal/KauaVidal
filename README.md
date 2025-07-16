@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend developer<br>- Student at @SptechSchool<br><br>- Sou estudante de programação na SPTech e atualmente trabalho como desenvolvedor backend na Rappi. Apaixonado por tecnologia, estou sempre buscando aprender e melhorar minhas habilidades, principalmente em backend .</p>
+<p align="left">- Backend developer<br>- Student at @SptechSchool<br><br>- Atualmente atuo como desenvolvedor back-end júnior na Cora, onde trabalho principalmente com Kotlin, Kafka e arquitetura de microsserviços. Sou apaixonado por resolver problemas com código limpo, escalável e focado em performance. Estou sempre em busca de aprender mais sobre sistemas distribuídos, mensageria e boas práticas de desenvolvimento.p>
 
 ###
 
